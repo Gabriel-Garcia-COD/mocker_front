@@ -1,0 +1,43 @@
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.btn-endpoint {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100%;
+    transition: .2s;
+}
+
+.close {
+    background-color: #ca2929;
+}
+
+.close:hover {
+    background-color: #a12222;
+}
+
+.add {
+    background-color: #1c6d1f;
+}
+
+.add:hover {
+    background-color: #114413;
+}
+
+.clear {
+    background-color: #1c366d;
+}
+
+.clear:hover {
+    background-color: #112344;
+}
